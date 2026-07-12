@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://www.dati.gov.it/
 common:
+  - type: DomainSecurity
+    url: security/open-government-italy-domain-security.yml
   - type: Website
     url: https://www.dati.gov.it/
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://www.dati.gov.it/notizie
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
