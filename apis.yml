@@ -39,7 +39,6 @@ apis:
   - name: Open Government, Italy
     description: "Italy Government Open Data"
     humanURL: https://www.dati.gov.it/
-    baseURL: https://www.dati.gov.it/
     tags:
       - Government
     properties:
