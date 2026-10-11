@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "open-government-italy",
+    "captured_at": "2026-10-11T191211",
+    "source_url": "https://www.dati.gov.it/",
+    "source_type": "Website",
+    "file": "open-government-italy-2026-10-11T191211.png",
+    "bytes": 117769,
+    "capture": "playwright-local"
+  }
+]
